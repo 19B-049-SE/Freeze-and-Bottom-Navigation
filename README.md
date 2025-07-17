@@ -9,6 +9,4 @@ A Flutter application demonstrating:
 - Animated freeze effect on cards
 - Multiple screens with bottom navigation
 - Random card data generation
-
-## Screenshots
-(You can add screenshots later)
+- 
